@@ -103,8 +103,8 @@ Estes padrões revelam associações significativas entre produtos específicos 
 ## 👨‍💼 Contato
 
 **[Mateus Werneck]**  
-[GitHub](https://github.com/Mwrnk)
-[LinkedIn](https://linkedin.com/in/mateuswerneck) 
-E-mail: mateuswerneckelizeu@gmail.com
+- [GitHub](https://github.com/Mwrnk)
+- [LinkedIn](https://linkedin.com/in/mateuswerneck) 
+- E-mail: mateuswerneckelizeu@gmail.com
 
 > *"Limpeza de dados é como organizar um armário: parece trabalhoso, mas quando terminamos, tudo fica mais acessível e útil."* 🧹📊
